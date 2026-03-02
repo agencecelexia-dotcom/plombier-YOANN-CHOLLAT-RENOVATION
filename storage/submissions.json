@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sub_1708300800000_kf9m2x",
+    "nom": "Camille Lefebvre",
+    "telephone": "06 72 43 18 95",
+    "email": "camille.lefebvre@gmail.com",
+    "service": "Urgence / Depannage",
+    "message": "Bonjour, j'ai une fuite d'eau importante sous mon évier de cuisine depuis ce matin. L'eau coule en permanence et je ne peux pas l'arrêter malgré la fermeture du robinet d'arrêt. Pouvez-vous intervenir rapidement ? Je suis disponible toute la journée. Merci.",
+    "date": "2026-02-19T08:00:00.000Z",
+    "status": "new"
+  },
+  {
+    "id": "sub_1708214400000_p3jt7w",
+    "nom": "Romain Dupont",
+    "telephone": "07 63 22 41 08",
+    "email": "romain.dupont@orange.fr",
+    "service": "Chauffe-eau",
+    "message": "Bonjour, mon chauffe-eau ne produit plus d'eau chaude depuis hier soir. Il s'agit d'un cumulus électrique de 200L installé il y a environ 8 ans. Pourriez-vous venir faire un diagnostic et me proposer un devis pour un remplacement si nécessaire ? Cordialement.",
+    "date": "2026-02-18T08:00:00.000Z",
+    "status": "new"
+  },
+  {
+    "id": "sub_1708128000000_a8vn4q",
+    "nom": "Sophie Martin",
+    "telephone": "06 45 87 23 61",
+    "email": "sophie.martin69@hotmail.fr",
+    "service": "Plomberie generale",
+    "message": "Bonjour, je vous contacte car le robinet de ma salle de bain goutte en permanence même quand il est bien fermé. De plus, j'ai remarqué que la pression d'eau a baissé dans tout l'appartement. Serait-il possible de prendre rendez-vous cette semaine ? Merci d'avance.",
+    "date": "2026-02-16T14:30:00.000Z",
+    "status": "new"
+  },
+  {
+    "id": "sub_1707868800000_d2kx9f",
+    "nom": "Jean-Pierre Moreau",
+    "telephone": "06 18 94 37 52",
+    "email": "jp.moreau@free.fr",
+    "service": "Chauffage",
+    "message": "Bonjour, ma chaudière gaz fait un bruit anormal depuis quelques jours et les radiateurs du premier étage ne chauffent plus correctement. Je souhaiterais que vous veniez vérifier l'installation. L'appareil a été installé en 2019. Merci de me recontacter pour fixer un créneau.",
+    "date": "2026-02-13T18:45:00.000Z",
+    "status": "read"
+  },
+  {
+    "id": "sub_1707696000000_g7hm3e",
+    "nom": "Nathalie Girard",
+    "telephone": "07 82 15 63 49",
+    "email": "n.girard@laposte.net",
+    "service": "Renovation salle de bain",
+    "message": "Bonjour, nous envisageons la rénovation complète de notre salle de bain (environ 6m²). Nous aimerions remplacer la baignoire par une douche à l'italienne et refaire toute la plomberie. Pourriez-vous passer pour un devis ? Nous sommes a {VILLE}.",
+    "date": "2026-02-11T10:15:00.000Z",
+    "status": "read"
+  },
+  {
+    "id": "sub_1707523200000_r5bn8c",
+    "nom": "Marc Bertrand",
+    "telephone": "06 91 56 28 74",
+    "email": "marc.bertrand@sfr.fr",
+    "service": "Urgence / Depannage",
+    "message": "Bonjour, mes toilettes sont complètement bouchées et l'eau remonte. J'ai essayé la ventouse et un furet mais rien n'y fait. J'habite a {COMMUNE_1}. Pouvez-vous me donner un créneau rapidement ? Merci.",
+    "date": "2026-02-09T09:20:00.000Z",
+    "status": "read"
+  },
+  {
+    "id": "sub_1707350400000_t1wp6j",
+    "nom": "Isabelle Fournier",
+    "telephone": "06 33 71 48 92",
+    "email": "isabelle.fournier@gmail.com",
+    "service": "Autre",
+    "message": "Bonjour, je suis propriétaire d'un appartement a {VILLE} et je souhaiterais faire installer un adoucisseur d'eau. L'eau est très calcaire dans notre immeuble et cela abîme nos appareils. Pourriez-vous me conseiller sur les solutions possibles et me faire un devis ? Merci.",
+    "date": "2026-02-07T16:00:00.000Z",
+    "status": "read"
+  },
+  {
+    "id": "sub_1707004800000_y4cs2v",
+    "nom": "Thomas Leroy",
+    "telephone": "07 44 29 85 13",
+    "email": "thomas.leroy69@outlook.fr",
+    "service": "Chauffage",
+    "message": "Bonjour, je dois faire l'entretien annuel de ma chaudière à gaz (marque Saunier Duval). C'est un appartement T3 situe a {VILLE}. Quels sont vos tarifs et vos disponibilités pour le mois de février ? Merci par avance.",
+    "date": "2026-02-03T11:30:00.000Z",
+    "status": "done"
+  },
+  {
+    "id": "sub_1706832000000_n9fx5k",
+    "nom": "Émilie Rousseau",
+    "telephone": "06 57 83 14 67",
+    "email": "emilie.rousseau@gmail.com",
+    "service": "Plomberie generale",
+    "message": "Bonjour, j'ai un problème de canalisation bouchée dans ma cuisine. L'évier met très longtemps à se vider et une mauvaise odeur remonte régulièrement. Je pense qu'il faudrait un détartrage ou un curage des canalisations. Merci de me contacter.",
+    "date": "2026-02-01T13:45:00.000Z",
+    "status": "done"
+  },
+  {
+    "id": "sub_1706572800000_h3at7m",
+    "nom": "Laurent Petit",
+    "telephone": "06 28 65 93 41",
+    "email": "l.petit@wanadoo.fr",
+    "service": "Chauffe-eau",
+    "message": "Bonjour, mon ballon d'eau chaude de 150 litres fuit par le bas depuis ce matin. Il a plus de 12 ans donc je pense qu'il faut le remplacer. Pourriez-vous me faire un devis pour la fourniture et la pose d'un nouveau chauffe-eau thermodynamique ? Merci.",
+    "date": "2026-01-29T17:10:00.000Z",
+    "status": "done"
+  },
+  {
+    "id": "sub_1706400000000_w6qr1b",
+    "nom": "Claire Durand",
+    "telephone": "07 19 42 76 38",
+    "email": "claire.durand@yahoo.fr",
+    "service": "Renovation salle de bain",
+    "message": "Bonjour, je souhaite obtenir un devis pour la rénovation de ma salle de bain. Je voudrais installer une double vasque, remplacer le mitigeur de la douche et changer le WC suspendu. La pièce fait environ 5m². Merci de me recontacter à votre convenance.",
+    "date": "2026-01-27T09:00:00.000Z",
+    "status": "done"
+  },
+  {
+    "id": "sub_1706140800000_j2mk8d",
+    "nom": "Philippe Bernard",
+    "telephone": "06 84 31 57 26",
+    "email": "philippe.bernard@orange.fr",
+    "service": "Urgence / Depannage",
+    "message": "Bonjour, j'ai une fuite au niveau du raccord de mon lave-linge qui a provoqué un dégât des eaux dans ma cuisine. J'ai coupé l'arrivée d'eau mais j'ai besoin d'un plombier pour réparer le raccord et vérifier qu'il n'y a pas d'autres dégâts. Merci pour votre réactivité.",
+    "date": "2026-01-24T20:30:00.000Z",
+    "status": "done"
+  }
+]
